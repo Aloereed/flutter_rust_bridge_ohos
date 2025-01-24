@@ -1,6 +1,6 @@
 # [flutter_rust_bridge v2](https://github.com/fzyzcjy/flutter_rust_bridge): Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.
 
-[Learn how to use flutter_rust_bridge for HarmonyOS](README_ohos.md)
+[Learn how to use flutter_rust_bridge for HarmonyOS](README_ohos.md)  
 [![Rust Package](https://img.shields.io/crates/v/flutter_rust_bridge.svg?color=blue)](https://crates.io/crates/flutter_rust_bridge)
 [![Flutter Package](https://img.shields.io/pub/v/flutter_rust_bridge.svg?include_prereleases&color=blue)](https://pub.dev/packages/flutter_rust_bridge)
 [![Stars](https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?logo=github&style=flat)](https://github.com/fzyzcjy/flutter_rust_bridge)
